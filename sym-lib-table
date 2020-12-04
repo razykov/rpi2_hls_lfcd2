@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rpi2_hls_lfcd2)(type Legacy)(uri ${KIPRJMOD}/rpi2_hls_lfcd2.lib)(options "")(descr ""))
+)

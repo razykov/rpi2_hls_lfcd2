@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HLS-LFCD2
+F https://emanual.robotis.com/assets/docs/LDS_Basic_Specification.pdf
+$ENDCMP
+#
+#End Doc Library
